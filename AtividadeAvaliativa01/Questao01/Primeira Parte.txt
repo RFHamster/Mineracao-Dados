@@ -1,0 +1,7 @@
+### Primeira Questão
+
+Os três arquivos anexados representam as sequências DNA de enzima topoisomerase 1 de trêsorganismos:   rato   (rat.fasta),   hamster   chinês   (hamster.fasta)   e   cavalo   (horse.fasta).   Usando sequências armazenadas nestes arquivos, implemente um algoritmo em Python que faça:
+
+  • Uma comparação de proximidade usando verificação simples entre dois organismos;
+  
+  • A contagem de ocorrência de cada aminoácido nas sequências construindo um vetornumérico de ocorrências e calcule as distâncias Manhattan, euclidiana, supremum, e asimilaridade de cosseno entre dois organismos.

@@ -1,0 +1,43 @@
+# Primeira Prova
+
+### Orientações
+
+Orientações:
+
+✔Desenvolva uma solução para os exercícios a seguir, utilizando a linguagem Python.
+
+✔Para cada valores dos vetores X e Y, coloque as respostas das medidas solicitadas como comentário no algoritmo.
+
+✔Implemente as funções, fazendo comentários explicativos sobre o código fonte.
+
+✔Entregar todas as resoluções pelo Teams.
+
+1. Para os vetores a seguir, X e Y, faça um algoritmo em Python que calcule as medidas desemelhança ou distância indicadas.
+
+  a) X=(1,1,1,1), Y=(2,2,2,2) co-seno, correlação, Euclidiana
+
+  b) X=(0,1,0,1), Y=(1,0,1,0) co-seno, correlação, Euclidiana, Jaccard
+
+  c) X=(1,1,0,1,0,1), Y=(1,1,1,0,0,1) co-seno, correlação, Jaccard
+
+2. Utilizando a base de dados PEDREIROS.CSV, responda as seguintes questões:
+
+  a) Carregar o arquivo num dataset.
+
+  b) Retirar registros nulos e armazená-los em uma outra tabela.
+
+  c) Mostrar como os dados estão organizados:
+
+    *   Descreva a quantidade de linhas e colunas
+    *   O que tem nas colunas
+
+  d) Gerar o sumário dos dados contendo:
+
+    *   Soma dos valores;
+    *   Mostrar o salário mínimo e o máximo;
+    *   Calcular a média e a mediana.
+
+  e) Gerar um relatório informando os salários:
+
+    *   Entre as datas 1820 e 1840;
+    *   A partir de 180.000,00.

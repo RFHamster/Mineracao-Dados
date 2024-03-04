@@ -1,0 +1,11 @@
+### Segunda Questão
+
+A tarefa é baseada no tutorial sobre pré-processamento de dados em Python do site Data Flair.
+
+O arquivo anexado contem dados de analise de vinhos portugueses publicado no site UCI MachineLearning Repository. (winequality-red.csv)
+
+O tutorial mostra como realizar normalização, padronização, transformação e binarização de dadosusando pacotes de Python: Pandas e SKLearn. A segunda parte mostra como realizar a visualizaçãode dados usando histogramas, gráficos de densidades, e outros usando pacotes: NumPy e Matplotlib.
+
+O resultado deste exercício seria os programas demostrando as operações sobre dados e arquivos degráficos como histogramas, etc.
+
+**Atenção**: Precisa entregar os programas e histogramas de atributos para cada normalização.
